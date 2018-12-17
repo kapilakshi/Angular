@@ -1,0 +1,25 @@
+body{
+  background-color:blue;
+}
+  .ui-float-label
+  {
+    margin: 20px;
+    text-align:left;
+  }
+  .login {
+    width: 400px;
+    position: absolute;
+    height: auto;
+    top: 40%;
+    left: 40%;
+    float:left;
+    margin: -184px 0px 0px -155px;
+    background: rgba(250, 248, 248, 0.863);
+    padding: 20px 30px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 0px rgba(0,0,0,0.3),inset 0px 1px 0px rgba(255,255,255,0.07);
+    text-align:center;
+  }
+ label{
+  text-align:center;
+ }
